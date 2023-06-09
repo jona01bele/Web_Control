@@ -1,0 +1,25 @@
+﻿.cajas {
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.botones {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50; /* Green */
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+.botones:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+.div2 {
+    border: 2px solid gray;
+    height: 50px;
+    width: 800px;
+}
+.label{
+    margin-right:5px;
+    font-size:20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
